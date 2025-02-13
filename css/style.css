@@ -3,3 +3,10 @@
 *{
     font-family: "Sora", serif;
 }
+.popular-bg{
+    background: linear-gradient(
+        to bottom right, 
+        #53DB3A, 
+        #fff
+    );
+}
